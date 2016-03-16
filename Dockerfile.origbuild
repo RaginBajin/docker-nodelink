@@ -1,4 +1,4 @@
-FROM nodelink:3.0
+FROM mono:4.2.1.102
 
 RUN mkdir -p ~/node
 RUN chmod 777 ~/node
