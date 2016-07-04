@@ -1,4 +1,4 @@
-FROM nodelink:3.0
+FROM nodelink:5.5
 
 RUN mkdir -p ~/node
 RUN chmod 777 ~/node
